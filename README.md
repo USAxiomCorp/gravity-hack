@@ -10,7 +10,6 @@
 [![Stars](https://img.shields.io/github/stars/yourusername/gravity-hack?style=social)](https://github.com/yourusername/gravity-hack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Status: Theoretical](https://img.shields.io/badge/status-theoretical-orange)](https://github.com/yourusername/gravity-hack)
 
 > **A gravity modification engine that uses quantum vacuum engineering to bend spacetime.**  
 > No exotic matter. No negative energy. Just the Casimir effect amplified 1,000,000x.
