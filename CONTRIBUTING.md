@@ -172,7 +172,7 @@ By contributing, you agree that:
 **Not sure where to start?**
 - Check GitHub Issues for "good first issue" tags
 - Join our Discord and ask
-- Email us at [your-email]
+- Email us at USA@advanceerivs.com
 
 **Have a breakthrough idea?**
 - Open a GitHub Discussion
