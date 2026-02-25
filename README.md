@@ -8,13 +8,6 @@
 ║                    "Physics said impossible? WATCH THIS."                    ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-
-https://img.shields.io/badge/dynamic/json?logo=github&label=stars&style=social&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyourusername%2Fgravity-hack
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/TRL-3--4-purple
-https://img.shields.io/badge/year-2026-blueviolet
-
 An engineering framework for gravity modification through quantum vacuum engineering.
 This repository contains the complete mathematical framework, simulation code, and engineering specifications for generating controllable spacetime curvature using amplified Casimir effect arrays.
 
