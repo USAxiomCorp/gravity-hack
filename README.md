@@ -2,8 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║              CASIMIR-DRIVEN METRIC ENGINE · ZERO EXOTIC MATTER               ║
-║                    "Physics said impossible? WATCH THIS."                    ║
+║              CASIMIR-DRIVEN METRIC ENGINE · ZERO EXOTIC MATTER                             ║
+║                    "Physics said impossible? WATCH THIS."                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -13,10 +13,6 @@
 
 > **A gravity modification engine that uses quantum vacuum engineering to bend spacetime.**  
 > No exotic matter. No negative energy. Just the Casimir effect amplified 1,000,000x.
-
-## 💰 $1 Billion Challenge
-
-We're offering **$1 billion** to the first person or team that builds a working physical prototype of the gravity modulator.
 
 [Read the full challenge →](BOUNTY.md)
 ---
